@@ -1,0 +1,7 @@
+header h1{
+color: #4c1274;
+}
+  
+header h1::first-letter {
+  font-size: 170%;
+  }
