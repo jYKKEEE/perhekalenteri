@@ -5,3 +5,7 @@ color: #4c1274;
 header h1::first-letter {
   font-size: 170%;
   }
+
+footer {
+font-size: 0.8rem;
+}
